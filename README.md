@@ -1,2 +1,2 @@
 # House-Finance
-A simple front-end app for finance.
+A simple app for finance.
